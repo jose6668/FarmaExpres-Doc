@@ -260,4 +260,23 @@ farmaexpres/
 
 ```
 
+### 📌 Historias de Usuario (RF)
+
+Las siguientes Historias de Usuario han sido creadas y gestionadas como Issues dentro del repositorio:
+
+- HU-RF-01 – Gestión de Usuarios  
+- HU-RF-02 – Autenticación 
+- HU-RF-03 – Cambio de Contraseña  
+- HU-RF-04 – Registro de Medicamentos  
+- HU-RF-05 – Actualización de Medicamento 
+- HU-RF-06 – Eliminación Lógica de Medicamento  
+- HU-RF-07 – Registro de Salida de Inventario
+- HU-RF-08 – Alertas de Vencimiento
+- HU-RF-09 – Reporte de Inventario Actual
+- HU-RF-09 – Reporte de Inventario Actual
+- HU-RF-10 - Reporte de Productos Agotados
+- HU-RF-11 - Reporte de Historial de Movimientos 
+
+[Ver HU](https://github.com/JerssonF/Week-4.git)
+
 
