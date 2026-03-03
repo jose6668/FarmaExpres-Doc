@@ -217,4 +217,4 @@ La Versión 1.0 garantiza:
 ---
 
 ## MoSCoW
-[📄 Ver Requerimientos MoSCoW (PDF)](./FarmaExpres_Requerimientos_MoSCoW_v1.0_a.pdf)
+[📄 Ver Requerimientos MoSCoW (PDF)](./FarmaExpres_Requerimientos_MoSCoW_v1.0_actualizado.pdf)
