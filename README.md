@@ -234,7 +234,7 @@ farmaexpres/
 │
 └── database/
     └── init.sql
-
+```
 ### 📌 Historias de Usuario (RF)
 
 Las siguientes Historias de Usuario han sido creadas y gestionadas como Issues dentro del repositorio:
