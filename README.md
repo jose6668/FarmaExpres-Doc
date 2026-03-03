@@ -280,3 +280,8 @@ Las siguientes Historias de Usuario han sido creadas y gestionadas como Issues d
 [Ver HU](https://github.com/JerssonF/Week-4.git)
 
 
+### HU-RF-01 – Gestión de Usuarios
+
+[Ver HU-RF-01 – Gestión de Usuarios](./HU-RF-01–Gestión_de_Usuarios.docx)
+
+
