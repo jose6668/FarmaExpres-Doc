@@ -284,4 +284,6 @@ Las siguientes Historias de Usuario han sido creadas y gestionadas como Issues d
 
 [Ver HU-RF-01 – Gestión de Usuarios](./HU-RF-01–Gestión_de_Usuarios.docx)
 
+### HU-RF-02 – Autenticación
+[Ver HU-RF-02 – Autenticación](./HU-RF-02–Autenticación.docx)
 
