@@ -218,3 +218,8 @@ La Versión 1.0 garantiza:
 
 ## MoSCoW
 [📄 Ver Requerimientos MoSCoW (PDF)](./FarmaExpres_Requerimientos_MoSCoW_v1.0_actualizado.pdf)
+
+
+### Diagramas 
+
+[Git Diagraams)(https://github.com/jose6668/FarmaExpres-Diagramas.git)
