@@ -231,11 +231,6 @@ farmaexpres/
 ├── README.md
 ├── docker-compose.yml
 |
-|github/
-|── workflows/
-|    ├── ci-auth-service.yml
-|    ├── ci-inventory-service.yml
-|    └── ci-gateway.yml
 │
 ├── gateway/                      # API Gateway
 │   ├── src/
