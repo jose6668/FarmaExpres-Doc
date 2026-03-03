@@ -223,3 +223,46 @@ La Versión 1.0 garantiza:
 ### Diagramas 
 
 [Git Diagraams)(https://github.com/jose6668/FarmaExpres-Diagramas.git)
+
+###  Estructura Monorepo
+
+```text
+farmaexpres/
+├── README.md
+├── docker-compose.yml
+|
+|github/
+|── workflows/
+|    ├── ci-auth-service.yml
+|    ├── ci-inventory-service.yml
+|    └── ci-gateway.yml
+│
+├── gateway/                      # API Gateway
+│   ├── src/
+│   ├── pom.xml
+│   └── Dockerfile
+│
+├── auth-service/                 # Microservicio - Autenticación
+│   ├── src/
+│   │   └── main/
+│   │       ├── java/
+│   │       └── resources/
+│   │           └── application.yml
+│   ├── pom.xml
+│   └── Dockerfile
+│
+├── inventory-service/
+│   ├── src/
+│   │   └── main/
+│   │       ├── java/
+│   │       └── resources/
+│   │           └── application.yml
+│   ├── pom.xml
+│   └── Dockerfile
+│
+└── database/
+    └── init.sql
+
+```
+
+
