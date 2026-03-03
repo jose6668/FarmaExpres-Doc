@@ -27,6 +27,7 @@ El objetivo es establecer una base operativa mínima que garantice:
 
 La versión 1.0 incluye: 
 
+- Aplicación web
 - Gestión de usuarios y control de acceso
 - Registro y control de medicamentos
 - Gestión de entradas y salidas
