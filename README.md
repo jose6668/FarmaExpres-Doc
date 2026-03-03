@@ -254,16 +254,11 @@ Las siguientes Historias de Usuario han sido creadas y gestionadas como Issues d
 [Ver HU](https://github.com/JerssonF/Week-4.git)
 
 
-### HU-RF-01 – Gestión de Usuarios
 
-[Ver HU-RF-01 – Gestión de Usuarios](./doc/HU-RF-01–Gestión_de_Usuarios.pdf)
+## PDFs de HU (carpeta /doc)
 
-### HU-RF-02 – Autenticación
-[Ver HU-RF-02 – Autenticación](./doc/HU-RF-02–Autenticación.pdf)
+- [HU-RF-01 — Gestión de usuarios](./doc/HU-RF-01-Gestion_de_Usuarios.pdf)
+- [HU-RF-02 — Autenticación](./doc/HU-RF-02-Autenticación.pdf)
+- [HU-RF-03 — Cambio de contraseña](./doc/HU-RF-03-Cambio_de_Contraseña.pdf)
+- [HU-RF-04 — Registro de medicamentos](./doc/HU-RF-04-Registro_de_Medicamentos.pdf)
 
-### HU-RF-03 – Cambio de Contraseña
-
-[ver HU-RF-03 – Cambio de Contraseña](./doc/HU-RF-03-Cambio_de_Contraseña.pdf)
-
-### HU-RF-04 – Registro de Medicamentos
-[Ver HU-RF-04 – Autenticación](./doc/HU-RF-04-Registro_de_Medicamentos.pdf)
