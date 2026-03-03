@@ -287,3 +287,7 @@ Las siguientes Historias de Usuario han sido creadas y gestionadas como Issues d
 ### HU-RF-02 – Autenticación
 [Ver HU-RF-02 – Autenticación](./HU-RF-02–Autenticación.docx)
 
+### HU-RF-03 – Cambio de Contraseña
+
+[ver HU-RF-03 – Cambio de Contraseña](./HU-RF-03–Cambio_de_Contraseña%20.docx)
+
