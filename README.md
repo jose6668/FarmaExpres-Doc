@@ -215,3 +215,6 @@ La Versión 1.0 garantiza:
 - Alertas automáticas de vencimiento.
 
 ---
+
+## MoSCoW
+[📄 Ver Requerimientos MoSCoW (PDF)](./FarmaExpres_Requerimientos_MoSCoW_v1.0_a.pdf)
