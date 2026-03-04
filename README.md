@@ -200,7 +200,9 @@ La Versión 1.0 garantiza:
 
 ###  Estructura Monorepo general
 
-```text
+```###  Estructura Monorepo general
+
+text
 farmaexpres/
 ├── README.md
 ├── docker-compose.yml
@@ -232,11 +234,11 @@ farmaexpres/
 └── database/
     └── init.sql
 
-``` 
+ 
 
 ### Estructura Monorepo  auth-service
 
-```text
+text
 
 auth-service/
 ├── .idea/                 # Configuraciones del entorno de desarrollo
@@ -257,12 +259,12 @@ auth-service/
 ├── pom.xml                # Gestión de dependencias de Maven
 └── Dockerfile             # Definición para el contenedor Docker
 
-```
+
 
 
 ### Estructura Monorepo inventory-service
 
-```text
+text
 
 inventory-service/
 ├── .idea/                 # Configuraciones del IDE
@@ -283,9 +285,7 @@ inventory-service/
 │           └── application.yaml # Configuración del microservicio
 ├── pom.xml                # Dependencias del proyecto
 └── Dockerfile             # Configuración para contenedor
-
 ```
-
 
 ### 📌 Historias de Usuario (RF)
 
@@ -313,5 +313,7 @@ Las siguientes Historias de Usuario han sido creadas y gestionadas como Issues d
 - [HU-RF-03 — Cambio de contraseña](./doc/HU-RF-03-Cambio_de_Contraseña.pdf)
 - [HU-RF-04 — Registro de medicamentos](./doc/HU-RF-04-Registro_de_Medicamentos.pdf)
 - [HU-RF-05 — Actualización de Medicamento](./doc/HU-RF-05-Actualizacion_de_Medicamento.pdf)
-- [HU-RF-06 — Actualización de Medicamento](./doc/HU-RF-06-Eliminacion_Logica_de_Medicamento.pdf)
-- [HU-RF-07 — Actualización de Medicamento](./doc/HU-RF-07-Reporte_de_Historial_de_Movimientos.pdf)
+- [HU-RF-06 — Eliminación Lógica de Medicamento](./doc/HU-RF-06-Eliminacion_Logica_de_Medicamento.pdf)
+- [HU-RF-07 — Alertas de Vencimiento](./doc/HU-RF-07-Reporte_de_Historial_de_Movimientos.pdf)
+- [HU-RF-08 — Reporte de Inventario Actual](./doc/HU-RF-08_Reporte_de_Inventario_Actual.pdf)
+- [HU-RF-09 — Reporte de Productos Agotados](./doc/HU-RF-09-Reporte_de_Productos_Agotados.pdf)
