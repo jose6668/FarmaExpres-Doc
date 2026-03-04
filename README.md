@@ -198,7 +198,7 @@ La Versión 1.0 garantiza:
 
 [Git Diagramas](https://github.com/jose6668/FarmaExpres-Diagramas.git)
 
-###  Estructura Monorepo
+###  Estructura Monorepo general
 
 ```text
 farmaexpres/
@@ -232,7 +232,60 @@ farmaexpres/
 └── database/
     └── init.sql
 
+``` 
+
+### Estructura Monorepo  auth-service
+
+```text
+
+auth-service/
+├── .idea/                 # Configuraciones del entorno de desarrollo
+├── .mvn/                  # Archivos del Maven Wrapper
+├── src/
+│   └── main/
+│       ├── java/
+│       │   └── co.edu.corhuila.auth_service/
+│       │       ├── Config/      # Clases de configuración (Security, JWT, etc.)
+│       │       ├── Controllers/ # Controladores REST (Login, Registro)
+│       │       ├── DTO/         # Objetos de Transferencia de Datos
+│       │       ├── Entity/      # Entidades de usuario y roles
+│       │       ├── Repository/  # Interfaces de acceso a datos
+│       │       ├── Service/     # Lógica de autenticación y servicios
+│       │       └── AuthServiceApplication.java # Clase principal del servicio
+│       └── resources/
+│           └── application.yaml # Configuración de propiedades del servicio
+├── pom.xml                # Gestión de dependencias de Maven
+└── Dockerfile             # Definición para el contenedor Docker
+
 ```
+
+
+### Estructura Monorepo inventory-service
+
+```text
+
+inventory-service/
+├── .idea/                 # Configuraciones del IDE
+├── .mvn/                  # Archivos de configuración de Maven Wrapper
+├── src/
+│   └── main/
+│       ├── java/
+│       │   └── co.edu.corhuila.inventory_service/
+│       │       ├── Config/      # Configuraciones de beans y seguridad
+│       │       ├── Controllers/ # Endpoints de la API REST
+│       │       ├── Dto/         # Objetos de transferencia de datos
+│       │       ├── Entity/      # Modelos de datos persistentes
+│       │       ├── exception/   # Manejo personalizado de errores
+│       │       ├── Repository/  # Interfaces de Spring Data JPA
+│       │       ├── Service/     # Lógica de negocio y servicios
+│       │       └── InventoryServiceApplication.java # Clase principal
+│       └── resources/
+│           └── application.yaml # Configuración del microservicio
+├── pom.xml                # Dependencias del proyecto
+└── Dockerfile             # Configuración para contenedor
+
+```
+
 
 ### 📌 Historias de Usuario (RF)
 
@@ -244,12 +297,10 @@ Las siguientes Historias de Usuario han sido creadas y gestionadas como Issues d
 - HU-RF-04 – Registro de Medicamentos  
 - HU-RF-05 – Actualización de Medicamento 
 - HU-RF-06 – Eliminación Lógica de Medicamento  
-- HU-RF-07 – Registro de Salida de Inventario
-- HU-RF-08 – Alertas de Vencimiento
-- HU-RF-09 – Reporte de Inventario Actual
-- HU-RF-09 – Reporte de Inventario Actual
-- HU-RF-10 - Reporte de Productos Agotados
-- HU-RF-11 - Reporte de Historial de Movimientos 
+- HU-RF-07 – Alertas de Vencimiento
+- HU-RF-08 – Reporte de Inventario Actual
+- HU-RF-09 - Reporte de Productos Agotados
+- HU-RF-10 - Reporte de Historial de Movimientos 
 
 [Ver HU](https://github.com/JerssonF/Week-4.git)
 
