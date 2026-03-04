@@ -312,4 +312,6 @@ Las siguientes Historias de Usuario han sido creadas y gestionadas como Issues d
 - [HU-RF-02 — Autenticación](./doc/HU-RF-02-Autenticación.pdf)
 - [HU-RF-03 — Cambio de contraseña](./doc/HU-RF-03-Cambio_de_Contraseña.pdf)
 - [HU-RF-04 — Registro de medicamentos](./doc/HU-RF-04-Registro_de_Medicamentos.pdf)
-
+- [HU-RF-05 — Actualización de Medicamento](./doc/HU-RF-05-Actualizacion_de_Medicamento.pdf)
+- [HU-RF-06 — Actualización de Medicamento](./doc/HU-RF-06-Eliminacion_Logica_de_Medicamento.pdf)
+- [HU-RF-07 — Actualización de Medicamento](./doc/HU-RF-07-Reporte_de_Historial_de_Movimientos.pdf)
